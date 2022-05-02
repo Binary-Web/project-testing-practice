@@ -1,0 +1,25 @@
+{
+  "name": "project-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Binary-Web/project-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Binary-Web/project-testing-practice/issues"
+  },
+  "homepage": "https://github.com/Binary-Web/project-testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.17.10"
+  },
+  "dependencies": {
+    "jest": "^28.0.3"
+  }
+}
