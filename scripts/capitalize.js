@@ -1,5 +1,4 @@
 function capitalize(string) {
-    // if(string.includes(" ")){
         const arr = [];
         const a = string.split(" ");
         a.forEach((element) => {
@@ -11,10 +10,6 @@ function capitalize(string) {
             }
         })
         return arr.join(" ")
-    // } else {
-    //     text =
-    // }
-
     
 }
 
